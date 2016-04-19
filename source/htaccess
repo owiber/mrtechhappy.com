@@ -1,0 +1,4 @@
+AuthUserFile /usr291/home/mrtechha/public_html/update/.htpasswd
+AuthName "Enter username and password please."
+AuthType Basic
+require valid-user
